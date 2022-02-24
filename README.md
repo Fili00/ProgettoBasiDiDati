@@ -1,4 +1,4 @@
-# ProgettoDatabase
+# Progetto di basi di dati
 Progetto realizzato per l'esame di basi di dati dell'università.
 Veniva richiesto di progettare e realizzare una base di dati in PostgreSQL che ottimizzasse le query
 presenti nel workload. 
